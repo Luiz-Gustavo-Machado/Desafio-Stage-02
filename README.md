@@ -1,10 +1,6 @@
 # Desafio Stage 02 Explore 
 
-
-
-<h3> Esse foi um desafio para corrigir bugs e deixar o HTML semântico. 
-
-</h3>
+<h3>Esse foi um desafio para corrigir bugs e deixar o HTML semântico.</h3>
 
 
 <h3>Stack utilizada</h3>
