@@ -3,7 +3,7 @@
 > Esse foi um desafio para corrigir bugs e deixar o HTML semântico.
 
 
-<h3>Stack utilizada</h3>
+**Stack utilizada**
 
 Front-end: HTML & CSS
 
